@@ -72,3 +72,6 @@ def mostrar_empleado(array_legajos:list, array_sueldos:list,array_nombres:list,a
     
 def saludar():
     print("HOLA MUNDO")
+    
+def sumar(numero_uno,numero_dos):
+    return numero_uno + numero_dos
