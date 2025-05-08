@@ -26,6 +26,8 @@ bandera_carga = False
 #4.Mostrar el empleado con mayor salario
 #5.Salir
 
+saludar()
+
 while True:
     #Muestra el menu
     print("1.Cargar Empleados \n2.Mostrar Empleados\n3.Calcular promedio sueldos\n4.Mostrar el empleado con mayor salario\n5.Salir")

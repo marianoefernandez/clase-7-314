@@ -69,3 +69,6 @@ def mostrar_empleado(array_legajos:list, array_sueldos:list,array_nombres:list,a
     print(f"Nombre: {array_nombres[indice_empleado]}")
     print(f"Edad: {array_edades[indice_empleado]}")
     print(f"Sueldo: $ {array_sueldos[indice_empleado]}")
+    
+def saludar():
+    print("HOLA MUNDO")
